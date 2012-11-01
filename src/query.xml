@@ -1,0 +1,10 @@
+<parameters>
+<query>
+    <number>1</number>
+    <text>dog</text>
+</query>
+<query>
+    <number>2</number>
+    <text>bike path</text>
+</query>
+</parameters>
