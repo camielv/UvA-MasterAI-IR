@@ -1,5 +1,5 @@
 <parameters>
-<index>/home/camielv/Projects/Information-Retrieval/src/result</index>
+<index>/home/camielv/Projects/Information-Retrieval/index_plane</index>
 <count>100</count>
 <trecFormat>1</trecFormat>
 </parameters>

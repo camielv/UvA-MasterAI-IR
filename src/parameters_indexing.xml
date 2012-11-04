@@ -1,8 +1,8 @@
 <parameters>
-<index>/home/camielv/Projects/Information-Retrieval/src/result</index>
+<index>/home/camielv/Projects/Information-Retrieval/index_plane</index>
 <corpus>
-    <class>txt</class>
-    <path>/home/camielv/Projects/Information-Retrieval/datasets</path>
+    <class>trectext</class>
+    <path>/home/camielv/Projects/Information-Retrieval/corpus</path>
 </corpus>
 <stemmer>
     <name>porter</name>
