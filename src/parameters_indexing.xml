@@ -1,8 +1,8 @@
 <parameters>
-<index>/home/camielv/Projects/Information-Retrieval/index_plane</index>
+<index>/home/camielv/Projects/Information-Retrieval/indexone</index>
 <corpus>
     <class>trectext</class>
-    <path>/home/camielv/Projects/Information-Retrieval/corpus</path>
+    <path>/home/camielv/Projects/Information-Retrieval/corpusone</path>
 </corpus>
 <stemmer>
     <name>porter</name>
