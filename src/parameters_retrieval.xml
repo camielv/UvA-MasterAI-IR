@@ -1,5 +1,6 @@
 <parameters>
-<index>/home/camielv/Projects/Information-Retrieval/index_plane</index>
+<index>/home/camielv/Projects/Information-Retrieval/index_base</index>
 <count>100</count>
 <trecFormat>1</trecFormat>
+<rule>method:linear,collectionLambda:0.9</rule>
 </parameters>
